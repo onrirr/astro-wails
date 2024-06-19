@@ -9,12 +9,30 @@
     ".vscode": true,
     "build": true,
     "frontend/dist": true,
-    "frontend/node_modules": true
+    "frontend/node_modules": true,
+    "frontend/.astro": true,
+    "frontend/package-lock.json": true,
+    "frontend/.gitignore": true,
+    "frontend/wailsjs": true,
+    ".gitignore": true,
+    "go.sum": true,
+    "go.mod": true,
+    "frontend/package.json.md5": true,
+    "frontend/package.json": true
   },
   "hide-files.files": [
     ".vscode",
     "build",
     "frontend/dist",
-    "frontend/node_modules"
+    "frontend/node_modules",
+    "frontend/.astro",
+    "frontend/package-lock.json",
+    "frontend/.gitignore",
+    "frontend/wailsjs",
+    ".gitignore",
+    "go.sum",
+    "go.mod",
+    "frontend/package.json.md5",
+    "frontend/package.json"
   ]
 }
